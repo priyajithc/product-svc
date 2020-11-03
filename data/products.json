@@ -1,0 +1,58 @@
+{
+   "products":[
+      {
+         "id":10001,
+         "name":"Redmi Note 9",
+         "description":"Redmi Note 9 - Pebble Grey, 4GB RAM 64GB Storage - 48MP Quad Camera & Full HD+ Display",
+         "price":14999.00,
+         "sku":"RMIN99",
+         "category":"SMPHONE",
+				 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREeV6gZ0YZVw1Ne-H49buBNCyqmB2O1gcopuy1PR-vw9pyQI0Gr327n5fO8XISnoHer2Vwz6M&usqp=CAc"
+      },
+      {
+         "id":10002,
+         "name":"Samsung Galaxy M51",
+         "description":"Samsung Galaxy M51 - Electric Blue, 6GB RAM, 128GB Storage",
+         "price":28999,
+         "sku":"SMGX51",
+         "category":"SMPHONE",
+				 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS4fVJ74cz6ar4dY2LqOpQL8nGJtGcpPIOFCTrlrW2U52W947XfYKCczikeXbgwl6VyK0nq2j9N&usqp=CAc"
+      },
+      {
+         "id":10003,
+         "name":"Samsung Galaxy M31s",
+         "description":"Samsung Galaxy M31s - Mirage Black, 6GB RAM, 128GB Storage",
+         "price":22999,
+         "sku":"SMGX31",
+         "category":"SMPHONE",
+				 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS4fVJ74cz6ar4dY2LqOpQL8nGJtGcpPIOFCTrlrW2U52W947XfYKCczikeXbgwl6VyK0nq2j9N&usqp=CAc"
+      },
+      {
+         "id":10004,
+         "name":"Oppo F17",
+         "description":"Oppo F17 - Navy Blue, 6GB RAM, 128GB Storage",
+         "price":20990,
+         "sku":"OPOF17",
+         "category":"SMPHONE",
+				 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvEWKoIMNrAti6zgIW39Ev66B_uY-aoawrnFXcIxUf4Ivn9X1B0nfnxtC3bg90q0P1fatRdQiR&usqp=CAc"
+      },
+      {
+         "id":10005,
+         "name":"Apple iPhone 11",
+         "description":"Apple iPhone 11 Pro Max (64GB) - Midnight Green",
+         "price":64900,
+         "sku":"AIPH11",
+         "category":"SMPHONE",
+				 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFoyDKtyPtJrix2PCiPvcKbaUrN_2a247vEnULmXkwE05Mx-WRxEih0IVEi82kGjiUExsh6OEa&usqp=CAc"
+      },
+      {
+         "id":10006,
+         "name":"Apple iPhone 11 Pro Max",
+         "description":"Redmi Note 9 - Pebble Grey, 4GB RAM 64GB Storage - 48MP Quad Camera & Full HD+ Display",
+         "price":111200,
+         "sku":"AIPH11PM",
+         "category":"SMPHONE",
+				 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFoyDKtyPtJrix2PCiPvcKbaUrN_2a247vEnULmXkwE05Mx-WRxEih0IVEi82kGjiUExsh6OEa&usqp=CAc"
+      }
+   ]
+}
